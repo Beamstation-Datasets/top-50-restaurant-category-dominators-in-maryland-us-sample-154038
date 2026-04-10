@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b4354a18-c3ef-4884-b270-7c2a439edc11",
+  "id_short": 154038,
+  "published_at": "2026-04-10T19:19:01Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-maryland-us-sample-154038",
+  "sample_asset_name": "beamstation_154038_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/154038/beamstation_154038_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "231581a82c760c10433d65724d0588321b14ad39766d65c4a5874808c43f276d",
+  "sample_size_bytes": 38134,
+  "total_records": 50
+}
