@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Maryland, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `154038` |
 | Location | Maryland |
 | Category | Restaurants |
-| Full dataset size | 67 records |
-| Free sample size | 6 records (8.96%) |
-| Last export | 2026-04-22T13:21:00.227531+00:00 |
+| Full dataset size | 48 records |
+| Free sample size | 4 records (8.33%) |
+| Last export | 2026-04-29T14:05:15.250244+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-maryland-us-sample-154038/releases/download/sample-latest/beamstation_154038_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
